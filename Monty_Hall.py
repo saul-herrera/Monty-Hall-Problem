@@ -1,7 +1,5 @@
-"""
-Created on Sat Mar 12 17:53:51 2022 - https://github.com/saul-herrera
+#Created on Sat Mar 12 17:53:51 2022 - https://github.com/saul-herrera
 
-"""
 import random as rm
 
 Doors = ["Goat", "Goat", "Car"]
