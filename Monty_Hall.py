@@ -5,7 +5,7 @@ Created on Sat Mar 12 17:53:51 2022 - https://github.com/saul-herrera
 import random as rm
 
 Doors = ["Goat", "Goat", "Car"]
-player_switches = True
+player_switches = False #You can change to True and compare rate of wins
 N_trials = 10000
 win_counter = 0.
 lose_counter = 0.
