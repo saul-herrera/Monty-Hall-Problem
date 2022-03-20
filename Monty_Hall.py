@@ -1,7 +1,5 @@
 #Created on Sat Mar 12 17:53:51 2022 - https://github.com/saul-herrera
-
 import random as rm
-
 Doors = ["Goat", "Goat", "Car"]
 player_switches = False #You can change to True and compare rate of wins
 N_trials = 10000
@@ -10,7 +8,6 @@ lose_counter = 0.
 for i in range(N_trials):
     #All doors closed:
     unpicked_doors = Doors.copy()
-   ## print(unpicked_doors)
     #Player picks door at random:
     players_pick_number = rm.choice(range(len(Doors)))
     players_pick = Doors[players_pick_number]
