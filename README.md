@@ -1,5 +1,5 @@
 # Monty-Hall-Problem
-A simulation of the Monty Hall Problem that verifies its counterintuitive solution.
+A simulation of the Monty Hall Problem that verifies its solution.
 
 The Monty Hall problem:
 >"Suppose you're on a game show, and you're given the choice of three doors:
